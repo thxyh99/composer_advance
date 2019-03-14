@@ -47,10 +47,24 @@ packagist 是 Composer 的主要资源库，原生支持。任何支持 Composer
 
 配置自动更新的好处是，如果提交了代码，或者发布了新的版本，packagist 会自动拉取最新的代码供他人使用。
 
+在[webhook](https://webhook.site)网站生成Payload URL
+
     To do so you can:
-	1.Go to your GitHub repository 
-    2.Click the “Webhooks” button 
-    3.Add Webhooks
+	1.Go to your project repository.
+	2.Go to "settings" in the right corner.
+	3.Click on "webhooks."
+	4.Click "Add webhooks."
+	5.Write the Payload URL as https://webhook.site/6161ee36-21ac-48ea-8a21-809511ed1775
+
+
+
+### **过程**
+
+![](https://i.imgur.com/YE4br37.png)
+
+![](https://i.imgur.com/aQiQPn2.png)
+
+![](https://i.imgur.com/JniE0kz.png)
 
 ### **使用**
 
