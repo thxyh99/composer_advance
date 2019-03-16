@@ -1,4 +1,8 @@
 {
+    "name": "thxyh99/composer_advance",
+    "description": "composer advance",
+    "type": "project",
+    "license": "BSD-3-Clause",
     "require": {
         "thxyh99/zendframework": "dev-master"
     }
