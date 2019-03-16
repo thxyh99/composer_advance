@@ -160,12 +160,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/thxyh99/zendframework.git",
-            "reference": "80b99ed6558260bbde2e6e941bec0142200c0ae5"
+            "reference": "9032403f34639d5a4c9474d1aa32c67c41ae4386"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/thxyh99/zendframework/zipball/80b99ed6558260bbde2e6e941bec0142200c0ae5",
-            "reference": "80b99ed6558260bbde2e6e941bec0142200c0ae5",
+            "url": "https://api.github.com/repos/thxyh99/zendframework/zipball/9032403f34639d5a4c9474d1aa32c67c41ae4386",
+            "reference": "9032403f34639d5a4c9474d1aa32c67c41ae4386",
             "shasum": ""
         },
         "require": {
@@ -178,7 +178,7 @@
         "require-dev": {
             "phpunit/phpunit": "^5.7"
         },
-        "time": "2019-03-14T09:13:02+00:00",
+        "time": "2019-03-16T07:05:54+00:00",
         "type": "project",
         "installation-source": "source",
         "autoload": {
